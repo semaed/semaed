@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Modern Minimalist Simple Technology Banner.png" width="650" height="300">
+  <img src="Modern Minimalist Simple Technology Banner.png" width="650" height="250">
 </p>
 
 <h1 align="center">Hi 👋, I'm Eduardo Figueroa</h1>
