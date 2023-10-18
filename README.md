@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Eduardo Figueroa</h1>
-<h3 align="center">A passionate Software Engineer from Puerto Rico with a passion drive about AI and Machine Learning and how they are shaping our world.</h3>
+<h3 align="center">A Software Engineer from Puerto Rico with a drive about AI and Machine Learning and how they are shaping our world.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=semaed&label=Profile%20views&color=0e75b6&style=flat" alt="semaed" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=semaed" alt="semaed" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Dart, Firebase and OpenCV**
-
-- 👨‍💻 All of my projects are available at [https://github.com/semaed](https://github.com/semaed)
 
 - 📫 How to reach me **figsaned@gmail.com**
 
