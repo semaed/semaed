@@ -1,5 +1,6 @@
-<!-- Banner Section -->
-![Banner](https://github.com/semaed/semaed/blob/main/Modern%20Minimalist%20Simple%20Technology%20Banner.png)
+<p align="center">
+  <img src="Modern Minimalist Simple Technology Banner.png" width="650" height="200">
+</p>
 
 <h1 align="center">Hi 👋, I'm Eduardo Figueroa</h1>
 <h3 align="center">A Software Engineer from Puerto Rico with a drive about AI and Machine Learning and how they are shaping our world.</h3>
